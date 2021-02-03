@@ -2,9 +2,9 @@
 
 Tutorial :
 
-Git clone https://github.com/zippien/igfirst.git
+Git clone https://github.com/kiplix/testkomen
 
-cd igfirst
+cd testkomen
 
 npm install -g npm
 
@@ -12,9 +12,10 @@ node go.js
 
 Done.
 
-Put username and password for login
+nek uwis di instal ngesuki
+gari ketik 
 
-Then input your target with "," . for ex: 9gag,instagram,etc
+cd testkomen
+node go.js
 
-after your have done with your target, put delay 200 and 100, but i recomend about 350 and 150
-Done,, have fun with your first comment bot on instagram
+
