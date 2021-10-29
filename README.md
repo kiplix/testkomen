@@ -2,7 +2,7 @@
 
 Tutorial :
 
-pkg install node
+pkg install git
 
 Git clone https://github.com/kiplix/testkomen
 
