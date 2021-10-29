@@ -26,7 +26,8 @@ node go.js
 
 go ngedit kalimat sing go komen
 
-instal
+ketik
+=================
 
 cd
 
@@ -37,6 +38,8 @@ cd testkomen
 pkg install mc
 
 mcedit bacod.txt
+
+==========================
 
 nek uwis gari di save
 
